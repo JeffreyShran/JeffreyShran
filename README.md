@@ -6,5 +6,5 @@
 
 <h1 align='center'><i>Stay curious, be passionate!</i></h1>
 <p align="center">
-<a href="https://twitter.com/JeffreyShran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeff" height="30" width="30" /></a>
+<a href="https://twitter.com/JeffreyShran" target="blank"><img align="center" src="Twitter_Social_Icon_Rounded_Square_Color.png" alt="JeffreyShran_Twitter_Profile" height="35" width="35" /></a>
 </p>
